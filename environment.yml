@@ -1,7 +1,7 @@
 channels:
   - conda-forge
 dependencies:
-  - r-base=4.5.1
+  - r-base=4.4.3
   - r-irkernel
   - r-tidyverse
   - r-ragg
@@ -10,6 +10,7 @@ dependencies:
   - r-haven
   - r-remotes
   - r-devtools
+  - r-pak
   - r-pacman
   - r-naniar
   - r-fastdummies
