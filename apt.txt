@@ -20,6 +20,7 @@ libpng-dev
 libpoppler-cpp-dev
 libproj-dev
 librsvg2-dev
+libsodium-dev
 libsqlite3-dev
 libssl-dev
 libtiff5-dev
