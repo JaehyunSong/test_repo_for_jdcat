@@ -10,12 +10,14 @@ libfribidi-dev
 libgdal-dev
 libgeos-dev
 libgit2-dev
+libglpk-dev
 libgmp-dev
 libharfbuzz-dev
 libicu-dev
 libjpeg-dev
 libmagick++-dev
 libmariadb-dev
+libmpfr-dev
 libpng-dev
 libpoppler-cpp-dev
 libproj-dev
