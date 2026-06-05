@@ -18,6 +18,7 @@ libjpeg-dev
 libmagick++-dev
 libmariadb-dev
 libmpfr-dev
+libmysqlclient-dev
 libpng-dev
 libpoppler-cpp-dev
 libproj-dev
