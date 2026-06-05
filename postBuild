@@ -1,7 +1,5 @@
 #!/usr/bin/env -S bash -v
 
-quarto install tinytex
-
 echo Run setup.R
 Rscript setup.R
 
