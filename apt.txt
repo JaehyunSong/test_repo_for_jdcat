@@ -1,4 +1,5 @@
 build-essential
+fonts-mplus
 fonts-noto-cjk
 fonts-noto-cjk-extra
 libcairo2-dev
