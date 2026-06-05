@@ -15,7 +15,6 @@ libharfbuzz-dev
 libicu-dev
 libjpeg-dev
 libmagick++-dev
-libmariadb-dev
 libmpfr-dev
 libpng-dev
 libpoppler-cpp-dev
