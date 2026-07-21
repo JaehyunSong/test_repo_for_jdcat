@@ -40,7 +40,7 @@
             "TabSet2"
         ],
         "tabSet1": [
-            "History"
+            "Presentation"
         ],
         "tabSet2": [
             "Environment",
@@ -48,13 +48,14 @@
             "Plots",
             "Packages",
             "Help",
+            "Build",
+            "VCS",
             "Viewer",
             "Presentations"
         ],
         "hiddenTabSet": [
+            "History",
             "Connections",
-            "Build",
-            "VCS",
             "Tutorial",
             "Chat"
         ],
