@@ -7,17 +7,16 @@
     "always_save_history": false,
     "restore_last_project": false,
     "graphics_backend": "ragg",
-    "insert_native_pipe_operator": true,
     "highlight_selected_line": true,
     "show_margin": false,
     "highlight_r_function_calls": true,
     "rainbow_parentheses": true,
     "default_encoding": "UTF-8",
     "syntax_color_console": true,
-    "help_font_size_points": 12,
-    "font_size_points": 12,
+    "help_font_size_points": 14,
+    "font_size_points": 14,
     "server_editor_font_enabled": true,
-    "server_editor_font": "Source Code Pro",
+    "server_editor_font": "Andale Mono",
     "cran_mirror": {
         "name": "Japan (Yonezawa) [https]",
         "host": "Yamagata University",
@@ -41,25 +40,30 @@
             "TabSet2"
         ],
         "tabSet1": [
-            "History",
-            "Presentation"
+            "History"
         ],
         "tabSet2": [
             "Environment",
             "Files",
             "Plots",
-            "Connections",
             "Packages",
             "Help",
-            "Build",
-            "VCS",
-            "Tutorial",
             "Viewer",
             "Presentations"
         ],
-        "hiddenTabSet": [],
+        "hiddenTabSet": [
+            "Connections",
+            "Build",
+            "VCS",
+            "Tutorial",
+            "Chat"
+        ],
         "console_left_on_top": false,
         "console_right_on_top": true,
-        "additional_source_columns": 0
-    }
+        "additional_source_columns": 0,
+        "sidebar": [],
+        "sidebar_visible": false,
+        "sidebar_location": "left"
+    },
+    "auto_detect_indentation": true
 }
